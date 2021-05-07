@@ -2,17 +2,17 @@
 
 It's inspired by [Four-Point-Invoice-Transform-with-OpenCV](https://github.com/KMKnation/Four-Point-Invoice-Transform-with-OpenCV). I change some code to enhance white zone and decrease noise effect.
 
-## env
-- any c++ compiler (we use clang in this project)
+## Env
+- clang
 - opencv
 
-## compiler & use
+## Compiler & Use
 ```
 make
 ./transform <YOUR_IMAGE>
 ```
 
-## result
+## Result
 <Table>
     <tr>
         <th>Input Image</th>
